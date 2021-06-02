@@ -5,7 +5,7 @@
 ### [Lab 1](https://patrickverdeja.github.io/cit281-lab1/)
 - Showed understanding on how to navigate files through Terminal on MacOS
 
-### [Project 1]()
+### [Project 1](https://patrickverdeja.github.io/cit281-p1/)
 - Learned how to set up computer with software for the course
 - Practiced using terminal commands
 - Learned keyboard shortuts
