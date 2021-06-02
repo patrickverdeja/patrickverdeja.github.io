@@ -5,24 +5,24 @@
 ### [Lab 1](https://patrickverdeja.github.io/cit281-lab1/)
 - Showed understanding on how to navigate files through Terminal on MacOS
 
-### Project 1
+### [Project 1]()
 - Learned how to set up computer with software for the course
 - Practiced using terminal commands
 - Learned keyboard shortuts
 - Created a Node.js server-side JavaScript file
 
 ## 2. P2
-### Lab 2
+### [Lab 2]()
 - Used CLI commands for directory and file manipulation
 - Used CLI commands for git commands
 
-### Project 2
+### [Project 2]()
 - Used the command line interface (CLI) of your operating system to create and work with a git repository (repo)
 - Refactored the JavaScript program from the previous project to practice using git and practice refactoring
 - Used git via VSCode
 
 ## 3. P3
-### Lab 3
+### [Lab 3]()
 - Practiced refactoring JavaScript code to use more modern syntax
 - Practiced destructuring an object
 - Practiced converting normal functions into arrow function expressions
@@ -32,7 +32,7 @@
 - Practiced importing a Node.js compatible code module using require
 - Examined code using the spread operator
 
-### Lab 4
+### [Lab 4]()
 - Created initial Fastify Node.js web server
 - Initialized as a Node.js project folder using Node Package Manager (npm)
 - Added Fastify to project using npm, and test using Visual Studio Code (VSCode)
@@ -40,12 +40,12 @@
 - Fixed MIME error, test, and commit
 - Added a second route with query parameters, test, and commit
 
-### Project 3
+### [Project 3]()
 - Created a "coinage" code module that is capable of calculating the total value of coin objects.
 - Updated server code file as a true Node.js web server using Fastify package.
 
 ## 4. P4
-### Lab 5
+### [Lab 5]()
 - Gained experience interpreting functional descriptions and specifications to complete an assignment
 - Gained experience breaking a project into manageable components
 - Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
@@ -58,21 +58,21 @@
 - Gained experience using Postman to test web server routes
 - Gained experience working with JSON
 
-### Project 4
+### [Project 4]()
 - Created a REST API that works with "data" source of questions and answers
 - Created and tested code to work with the data source using a code module
 - Created a Node.js REST API to handle the GET verb
 
 
 ## 5. P6
-### Lab 6
+### [Lab 6]()
 - Joined GitHub and worked through Introduction to GitHub course
 - Created and test Book class
 - Created and test Library class
 - Added at least two more books to the library
 - Added ISBN and a delete book method
 
-### Lab 7
+### [Lab 7]()
 - Created own GitHub organization for the CIT Minor
 - Created GitHub repository
 - Cloned GitHub repository to local system
@@ -80,7 +80,7 @@
 - Updated and committed lab JavaScript file to practice error handling
 - Pushed  changes to GitHub
 
-### Project 6
+### [Project 6]()
 - Created three classes
 - Shape class that served as base for other two classes
 - Rectangle class that inherited from Shape class
