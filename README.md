@@ -16,7 +16,7 @@
 - Used CLI commands for directory and file manipulation
 - Used CLI commands for git commands
 
-### [Project 2]()
+### [Project 2](https://patrickverdeja.github.io/cit281-p2/)
 - Used the command line interface (CLI) of your operating system to create and work with a git repository (repo)
 - Refactored the JavaScript program from the previous project to practice using git and practice refactoring
 - Used git via VSCode
@@ -40,7 +40,7 @@
 - Fixed MIME error, test, and commit
 - Added a second route with query parameters, test, and commit
 
-### [Project 3]()
+### [Project 3](https://patrickverdeja.github.io/cit281-p3/)
 - Created a "coinage" code module that is capable of calculating the total value of coin objects.
 - Updated server code file as a true Node.js web server using Fastify package.
 
@@ -58,7 +58,7 @@
 - Gained experience using Postman to test web server routes
 - Gained experience working with JSON
 
-### [Project 4]()
+### [Project 4](https://patrickverdeja.github.io/cit281-p4/)
 - Created a REST API that works with "data" source of questions and answers
 - Created and tested code to work with the data source using a code module
 - Created a Node.js REST API to handle the GET verb
@@ -80,7 +80,7 @@
 - Updated and committed lab JavaScript file to practice error handling
 - Pushed  changes to GitHub
 
-### [Project 6]()
+### [Project 6](https://patrickverdeja.github.io/cit281-p6/)
 - Created three classes
 - Shape class that served as base for other two classes
 - Rectangle class that inherited from Shape class
