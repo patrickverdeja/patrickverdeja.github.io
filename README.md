@@ -1,5 +1,5 @@
 # Cit281 Projects I've Done
-## Click on any of the projects below to access downloads for my code
+#### Click on any of the projects below to access downloads for my code
 
 ## 1. P1
 ### [Lab 1](https://patrickverdeja.github.io/cit281-lab1/)
