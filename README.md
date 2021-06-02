@@ -1,8 +1,8 @@
 # Cit281 Projects I've Done
 
 ## P1
-- Project 1
-- Lab 1
+### - Project 1
+### - Lab 1
 
 ## P2
 - Project 2
