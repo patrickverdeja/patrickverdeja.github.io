@@ -1,6 +1,5 @@
 # Cit281 Projects I've Done
 
-![Image](SurgeCoffee.jpg)
 
 ## 1. P1
 ### [Lab 1](https://patrickverdeja.github.io/cit281-lab1/)
