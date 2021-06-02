@@ -1,7 +1,7 @@
 # Cit281 Projects I've Done
 
 ## 1. P1
-### [Lab 1](instagram.com)
+### [Lab 1](https://patrickverdeja.github.io/cit281-lab1/)
 - Showed understanding on how to navigate files through Terminal on MacOS
 
 ### Project 1
