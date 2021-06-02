@@ -3,6 +3,7 @@
 ## 1. P1
 ### Lab 1
 - Showed understanding on how to navigate files through Terminal on MacOS
+
 ### Project 1
 - Learned how to set up computer with software for the course
 - Practiced using terminal commands
