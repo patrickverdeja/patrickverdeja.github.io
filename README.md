@@ -32,7 +32,7 @@
 - Practiced importing a Node.js compatible code module using require
 - Examined code using the spread operator
 
-### [Lab 4]()
+### [Lab 4](https://patrickverdeja.github.io/cit281-lab4/)
 - Created initial Fastify Node.js web server
 - Initialized as a Node.js project folder using Node Package Manager (npm)
 - Added Fastify to project using npm, and test using Visual Studio Code (VSCode)
@@ -45,7 +45,7 @@
 - Updated server code file as a true Node.js web server using Fastify package.
 
 ## 4. P4
-### [Lab 5]()
+### [Lab 5](https://patrickverdeja.github.io/cit281-lab5/)
 - Gained experience interpreting functional descriptions and specifications to complete an assignment
 - Gained experience breaking a project into manageable components
 - Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
