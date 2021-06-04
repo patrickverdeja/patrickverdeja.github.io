@@ -12,7 +12,7 @@
 - Created a Node.js server-side JavaScript file
 
 ## 2. P2
-### [Lab 2]()
+### [Lab 2](https://patrickverdeja.github.io/cit281-lab2/)
 - Used CLI commands for directory and file manipulation
 - Used CLI commands for git commands
 
@@ -22,7 +22,7 @@
 - Used git via VSCode
 
 ## 3. P3
-### [Lab 3]()
+### [Lab 3](https://patrickverdeja.github.io/cit281-lab3/)
 - Practiced refactoring JavaScript code to use more modern syntax
 - Practiced destructuring an object
 - Practiced converting normal functions into arrow function expressions
